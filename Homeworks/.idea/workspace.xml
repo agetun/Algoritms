@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13780e37-f27a-4a62-91e1-0de1d58ec5ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_1/Task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_1/Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lessons/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lessons/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lessons/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lessons/Lessons.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lessons/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lessons/src/lesson_2/Palindrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lessons/src/lesson_2/Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lessons/src/lesson_2/example2/LinerSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lessons/src/lesson_2/example2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Текстовый документ.txt" afterDir="false" />
-    </list>
+    <list default="true" id="13780e37-f27a-4a62-91e1-0de1d58ec5ba" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,13 +15,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Aleksandr/Desktop/Algoritms_Java/Algoritms/Lessons"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aleksandr/Desktop/Algoritms_Java/Algoritms/Homeworks&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
