@@ -32,7 +32,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Aleksandr/Desktop/Algoritms_Java/Algoritms/Homeworks/src/homework_3",
+    "last_opened_file_path": "C:/Users/Aleksandr/Desktop/Algoritms_Java/Algoritms/Homeworks/src",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0"
@@ -40,9 +40,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aleksandr\Desktop\Algoritms_Java\Algoritms\Homeworks\src" />
       <recent name="C:\Users\Aleksandr\Desktop\Algoritms_Java\Algoritms\Homeworks\src\homework_3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="homework_4" />
       <recent name="homework_3" />
     </key>
   </component>
