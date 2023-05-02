@@ -50,7 +50,7 @@
       <recent name="homework_3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homework_6.Main">
+  <component name="RunManager" selected="Application.homework_7.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Homeworks" />
@@ -97,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson_6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_6.Main" />
-      <module name="Lessons" />
+    <configuration name="homework_7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_7.Main" />
+      <module name="Homeworks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_6.*" />
+          <option name="PATTERN" value="homework_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework_7.Main" />
         <item itemvalue="Application.homework_6.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.homework_5.Main" />
         <item itemvalue="Application.homework_4.Main" />
-        <item itemvalue="Application.lesson_6.Main" />
       </list>
     </recent_temporary>
   </component>
